@@ -10,19 +10,19 @@ ___
 
 ## **Tema 1. Introducción a la programación.**
 
-* ### **Actividad 1.** **[Clientes Ligeros.](https://github.com/NoeClariNista/add1718-noelia/blob/master/trim1/u1/a1_clientes_ligeros.md)**
+* ### **[Prácticas Tema 1.](https://github.com/NoeClariNista/pro1819/tree/master/Pr%C3%A1cticas%20Tema%201)**
 
 ---
 
 ## **Tema 2. Primeros programas: Uso de estructuras de control.**
 
-* ### **Actividad 1.** **[Clientes Ligeros.](https://github.com/NoeClariNista/add1718-noelia/blob/master/trim1/u1/a1_clientes_ligeros.md)**
+* ### **[Prácticas Tema 2.](https://github.com/NoeClariNista/pro1819/tree/master/Pr%C3%A1cticas%20Tema%202)**
 
 ---
 
 ## **Tema 3. Estructuras de control 2. Introducción estructuras de almacenamiento. Recursividad**
 
-* ### **Actividad 1.** **[Clientes Ligeros.](https://github.com/NoeClariNista/add1718-noelia/blob/master/trim1/u1/a1_clientes_ligeros.md)**
+* ### **[Prácticas Tema 3.](https://github.com/NoeClariNista/pro1819/tree/master/Pr%C3%A1cticas%20Tema%203)**
 
 ---
 
